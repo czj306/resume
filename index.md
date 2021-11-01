@@ -42,4 +42,4 @@
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 # 简历下载      
-[下载](https://raw.githubusercontent.com/czj306/resume/master/%E8%94%A1%E6%8C%AF%E6%9D%B0%E7%AE%80%E5%8E%86.pdf)      
+[下载](https://raw.githubusercontent.com/czj306/resume/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-%E8%94%A1%E6%8C%AF%E6%9D%B0.pdf)      
