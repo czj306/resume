@@ -136,7 +136,7 @@
 
 > ### 简历附件下载
 
-[简历](https://raw.githubusercontent.com/czj306/resume/master/%E6%A6%82%E5%8E%86.pdf)
+[简历](https://github.com/czj306/resume/raw/master/%E7%9B%B4%E8%81%98%E7%AE%80%E5%8E%86.pdf)
 
 ---
 
